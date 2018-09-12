@@ -2,7 +2,7 @@
 - 模拟Http 后台服务请求
 
 ## 1 运行
-- java -jar wiremock-standalone-2.1.10.jar --port 8080
+- 双击start.bat (也可以直接双击startServer.vbs 隐藏cmd黑框)
 - 运行此命令即可  端口8080
 
 ## 2 验证

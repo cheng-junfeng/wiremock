@@ -8,6 +8,6 @@
     },
     "response": {
         "status": 200,
-        "body": "{\"result\":{\"accessToken\":\"aaaa\",\"encryptedAccessToken\":\"wwww\",\"expireInSeconds\":2592000,\"shouldResetPassword\":false,\"passwordResetCode\":null,\"userId\":94,\"userName\":null,\"requiresTwoFactorVerification\":false,\"twoFactorAuthProviders\":null,\"twoFactorRememberClientToken\":null,\"returnUrl\":null,\"code\":\"登陆成功\",\"loginSuccess\":true,\"userRoles\":null},\"targetUrl\":null,\"success\":true,\"error\":null,\"unAuthorizedRequest\":false,\"__abp\":true}"
+        "body": "{\"code\":\"ok\"}"
     }
 }
